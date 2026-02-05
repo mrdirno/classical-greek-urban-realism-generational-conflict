@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_urban_realism_generational_conflict",
+  "title": "The Stone and the Scar",
+  "tagline": "In the shadow of the Acropolis, a daughter's quiet craft threatens a father's crumbling world.",
+  "target_words": 70000,
+  "actual_words": 70307,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Dignity of Craft vs. The Brutality of Toil",
+    "Silent Rebellion in a Noisy Polis",
+    "Economic Anxiety as a Family Language",
+    "The Personal Sacred vs. The Public Profane"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Gritty Marble",
+      "words": 2929
+    },
+    {
+      "ch": 2,
+      "title": "Leather Like a Bruise",
+      "words": 2929
+    },
+    {
+      "ch": 3,
+      "title": "Two Obols of Freedom",
+      "words": 2929
+    },
+    {
+      "ch": 4,
+      "title": "The Fuller's Ammonia",
+      "words": 2929
+    },
+    {
+      "ch": 5,
+      "title": "Kyrios Drakos's Shadow",
+      "words": 2929
+    },
+    {
+      "ch": 6,
+      "title": "Honey and Wax",
+      "words": 2929
+    },
+    {
+      "ch": 7,
+      "title": "A Priestess's Purse",
+      "words": 2929
+    },
+    {
+      "ch": 8,
+      "title": "The Smell of Ambition",
+      "words": 2929
+    },
+    {
+      "ch": 9,
+      "title": "Figs and Character",
+      "words": 2929
+    },
+    {
+      "ch": 10,
+      "title": "The Street of the Potters",
+      "words": 2929
+    },
+    {
+      "ch": 11,
+      "title": "The Nature of Virtue",
+      "words": 2929
+    },
+    {
+      "ch": 12,
+      "title": "The Back Room",
+      "words": 2929
+    },
+    {
+      "ch": 13,
+      "title": "Sicilian Scraps",
+      "words": 2929
+    },
+    {
+      "ch": 14,
+      "title": "The Tannery's Breath",
+      "words": 2929
+    },
+    {
+      "ch": 15,
+      "title": "A Debt of Coins",
+      "words": 2929
+    },
+    {
+      "ch": 16,
+      "title": "The Altar of Twelve Gods",
+      "words": 2929
+    },
+    {
+      "ch": 17,
+      "title": "The Cobbler's Proposition",
+      "words": 2929
+    },
+    {
+      "ch": 18,
+      "title": "Lysandros's Silence",
+      "words": 2929
+    },
+    {
+      "ch": 19,
+      "title": "The Stained Himation",
+      "words": 2929
+    },
+    {
+      "ch": 20,
+      "title": "Oil from Karystos",
+      "words": 2929
+    },
+    {
+      "ch": 21,
+      "title": "A Plea to Artemis",
+      "words": 2929
+    },
+    {
+      "ch": 22,
+      "title": "The Weather of Her Life",
+      "words": 2929
+    },
+    {
+      "ch": 23,
+      "title": "The Lopsided Pot",
+      "words": 2929
+    },
+    {
+      "ch": 24,
+      "title": "A Clever Pair of Hands",
+      "words": 2931
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Eleni teaches another young woman in the market her leatherworking skills, exploring female solidarity in a patriarchal economy.",
+      "Draft a monologue from Lysandros's perspective the night after Chapter 1, detailing his fears of failure and his twisted sense of protection.",
+      "Create a 'day in the life' vignette for Nikias the cobbler, showing his own generational struggles and why he chooses to help Eleni.",
+      "Imagine a scene set five years later: Eleni now has her own stall. Who visits her, and what old conflict resurfaces in a new form?"
+    ],
+    "technical": [
+      "Build a 'Scent-Scape' generator for ancient Athenian neighborhoods, mapping olfactory cues (tanneries, bakeries, incense) to social class and conflict.",
+      "Design an interactive economic model of Eleni's household, where player choices in allocating time (craft vs. market duty) affect family tension and financial survival."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "George Eliot",
+      "Émile Zola",
+      "Thucydides",
+      "Ursula K. Le Guin"
+    ]
+  },
+  "cover_prompt": "A young woman's hands, worn and strong, meticulously inlays a tiny, perfect piece of gold leaf into a ceramic shard, her intense focus a sanctuary of quiet dignity, while in the blurred background, her father's strained silhouette labors under a heavy stone block, [Detailed Scene & Context: set in a dusty Athenian workshop courtyard at dawn, with the majestic but distant Acropolis looming over cramped, sun-bleached houses, fragments of pottery and tools of both delicate craft and brute force scattered around them], [Artistic Style & Medium: in the atmospheric style of a classical realism painting by Sir Lawrence Alma-Tadema, rendered with the textured, material sensitivity of a Jeremy Mann urban oil painting], [Composition & Camera: book cover framing, a centered and intimate composition with a shallow depth of field that sharply focuses on her hands and face, using a low-angle shot to emphasize the weight of the world above her], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single shaft of warm morning light illuminating her worktable, cutting through the cool blue-grey shadows of the courtyard, palette of terracotta, ochre, dusty blue, and burnished gold], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
