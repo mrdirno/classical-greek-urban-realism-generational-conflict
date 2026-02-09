@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The marble was cold under her cheek. Not the clean, polished chill of a temple step, but the gritty, damp cold of a slab left in an alley, kissed by fish-market runoff and the ghosts of a thousand spilled wines. Eleni’s fingers scrabbled against it, finding purchase in a chipped groove. She pushed herself up, the world tilting on its axis—a canvas of whitewashed walls, cobalt sky, and the furious, florid face of her father.
@@ -99,6 +101,8 @@ When her father came to collect her at dusk, the baskets were empty, the coins i
 She took the coins. As they walked back through the now-shadowed streets, the lamps beginning to flicker in doorways, she didn’t speak. She walked beside his bulk, her mind not on the fish, not on the tannery stink that clung to him, not on the cold slab of marble in the alley.
 
 She was thinking of the grain of good Sicilian leather. She was thinking of a dry room. She was thinking of the exact angle at which to hold a knife to cut a clean, deliberate line.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -215,6 +219,8 @@ Later, in her own corner on a pallet of straw, she listened to her father’s ra
 She clutched the rough leather. Demos saw one path: escape, no matter the cost. Her father saw no path at all, only the endless, grinding circle.
 
 Eleni, in the dark, smelling the tannery and the ghost of good leather on her fingers, began, for the first time, to imagine a third. A narrow, specific, deliberate path of her own making. One straight stitch at a time.
+
+# Chapter 3
 
 ## CHAPTER 3
 
