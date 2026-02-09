@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The marble was cold under her cheek. Not the clean, polished chill of a temple step, but the gritty, damp cold of a slab left in an alley, kissed by fish-market runoff and the ghosts of a thousand spilled wines. Eleni’s fingers scrabbled against it, finding purchase in a chipped groove. She pushed herself up, the world tilting on its axis—a canvas of whitewashed walls, cobalt sky, and the furious, florid face of her father.
+Ariston’s sandal slapped the cobbles, each step a measured rebellion against the agora’s morning din. His father’s voice—a lecture on civic duty and proper lineage—still hummed in his skull, louder than the fishmongers’ cries and the scrape of stone from the new stoa going up. The city built, and argued, and did not change.
+
 
 “You think it grows on trees?” Lysandros bellowed. His voice didn’t echo in the narrow passage between their house and the fuller’s workshop; it was too thick, too full of real things—garlic, barley, the sour tang of the tannery where he worked. “You think I sweat in that vat of piss so you can waste good oil on your hair like some Corinthian courtesan?”
 
